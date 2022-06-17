@@ -1,2 +1,2 @@
-# Application-for-secure-email-exchange-including-encryption-decryption-with-AES-CFB-and-signature-b
+# Application-for-secure-email-exchange-including-encryption-decryption
 Cryptography course project / ORT Braude College / Date: 6/2020
